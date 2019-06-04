@@ -1,0 +1,21 @@
+---
+title: "Ecological Data Management and Analysis: Skills for Curating, Analysing, and Disseminating Field Observations"
+author: "Jessica L. Burnett"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+tags: [ecology, computation, statistics, course design]
+output: 
+    pdf_document:
+        template: NULL
+---
+
+# Course Description
+Ecological data collected in the field are expensive, noisy, and sometimes difficult to analyze relative to their experimental counterparts. Therefore, careful understanding, design, management, and analysis of field observations is necessary to create reproducible and strong inference.  
+
+This course gradually exposes students to the challenges that the ecological data anlyast often faces when analysing field data, paying special attention to implications for gaining statistical inference. Students completing this course will obtain a toolbox of skills necessary for managing and analysing modern field observations, and will have ample opportunity to refine these skills through hands-on training. 
+
+<!-- # Course Objectives -->
+<!-- 1. Expose  -->
+
+<!-- # Course Schedule -->
+
+<!-- # Course  -->
