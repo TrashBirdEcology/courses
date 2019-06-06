@@ -13,9 +13,3 @@ Ecological data collected in the field are expensive, noisy, and sometimes diffi
 
 This course gradually exposes students to the challenges that the ecological data anlyast often faces when analysing field data, paying special attention to implications for gaining statistical inference. Students completing this course will obtain a toolbox of skills necessary for managing and analysing modern field observations, and will have ample opportunity to refine these skills through hands-on training. 
 
-<!-- # Course Objectives -->
-<!-- 1. Expose  -->
-
-<!-- # Course Schedule -->
-
-<!-- # Course  -->
