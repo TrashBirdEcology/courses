@@ -35,3 +35,6 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .DS_Store
+introCompEcology/~$RIT Week 1 Handout DOC.doc
+introCompEcology/courseDescription.pdf
+ecolDatAnaly/courseDescription.pdf
