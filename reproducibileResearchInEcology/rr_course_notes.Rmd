@@ -1,0 +1,154 @@
+---
+title: "Notes and unused stuff"
+author: "Burnett, JL"
+date: "June 26, 2019"
+output: html_document
+---
+
+<!-- # END UPDATES HERE IGNORE THE RESTTTTTT -->
+
+<!-- ## Module 1: Tenents of Reproducible Research  -->
+<!-- ### Objectives:   -->
+<!-- - Explain the components and benefits of reproducibility -->
+<!-- - Identify opportunities to improve the reproducibility and openness of research projects and end-products -->
+
+<!-- ### Schedule -->
+
+<!-- Week 1: Reproducibility 101    -->
+
+<!-- - Lecture:  -->
+<!--     - Review essential components (documentation, organization, automation, and disemmination) and benefits of reproducible research.  -->
+<!-- - Readings:   -->
+<!--     - [Reproducibility crsis](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) -->
+<!--     - Explore the cartoons and posts at [Why open research?](http://whyopenresearch.org/index.html) -->
+<!--     <!-- - Optional: [visit additional resources at C. Bahlai's course page](https://github.com/cbahlai/OSRR_course) --> -->
+<!-- - Lab *(optional this week only)*: -->
+<!--         - The basics of R Studio.  -->
+<!--         - Q & A for R and R Studio -->
+
+<!-- Week 2: Documentation   -->
+
+<!-- - Mini-lecture and discussion:  -->
+<!--     - Introduce the idea of proper and reproducible documentation  -->
+<!--     - -->
+
+<!-- Week 2: Organization and Digital Project Management -->
+
+<!-- - Discussion: Components and benefits of project management.   -->
+<!-- - In-class assignments: Assign lead discussion papers/topics  -->
+<!-- - Lab: Overview of and project management in R Studio. -->
+<!-- - Readings: [This article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) -->
+
+
+
+<!-- Week 3: Collaboration 101  -->
+
+<!-- - Discussion: Components of and benefits to collaboration. Best practices in collaborative research projects.  -->
+<!-- - Readings: <inssert readings..definitely need some>[](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/130001) -->
+<!-- - Homework: Identify potential lead discussion papers/topics  -->
+
+<!-- ## Module 2: Tools and Skills for Collaboration and Reproducibility  -->
+
+<!-- ### Objectives:  -->
+<!-- - Explain the components and benefits of collaboration in research endeavors -->
+<!-- - Identify opportunities for collaboration -->
+<!-- - Learn and develop effective communication skills for communicating science -->
+<!-- - Discuss good practice for creating and working in an inclusive and collaborative research project -->
+
+
+<!-- ### Schedule   -->
+
+<!-- Week 4: Collaboration -->
+
+<!-- Week 4: Tools for bibliographies (e.g. Zotero)  writing (Simuldocs, GoogleDrive, Overleaf),  -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+<!-- Week 5: GitHub  -->
+<!-- - Discussion: student #   -->
+
+<!-- - Homework: Prepare 2-minute pitch (no electronic visuals) of research interests (memorization not required!).   -->
+<!-- - In-class assignments: Present pitches. Identify potential collaborators.  -->
+
+<!-- - Lab: Tools for general communication (email, Slack, etc.)   -->
+
+<!-- Week 4: Collaboration: Brainstorming and Communication  -->
+<!-- - Discussion:  Brainstorming, inforamtion sharing, and communication within the group -->
+<!-- <!-- - In-class assignments:   --> -->
+<!-- <!-- - Readings:  --> -->
+<!-- - Lab: Identify groups. Brainstorming session for proejct ideas -->
+<!-- <!-- - Homework: --> -->
+
+<!-- Week 5: Collaboration: Code- and Result Sharing  -->
+<!-- - Discussion:  student # 1 (e.g., tools for collaboration paper; Special Feature in Ecological Informatics) -->
+<!-- <!-- - In-class assignments:   --> -->
+<!-- - Readings:  -->
+<!-- - Lab:  Practice sharing code using GitHub, email, or other cloud storage -->
+<!-- - Homework: Identify the tools the group will use to communicate -->
+
+<!-- Week 6: Team Dynamics: Identifying Roles, Leadership, Authorship, Inclusivity     -->
+<!-- - Discussion:  student #2 (e.g., digital vs. in-person collaboration dynamics) -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework:  -->
+
+<!-- Week 8  -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+
+<!-- ## Module 3: Sharing and Archiving Research   -->
+
+<!-- ### Objectives -->
+
+<!-- -  -->
+<!-- -  -->
+<!-- -  -->
+
+<!-- ### Schedule  -->
+
+<!-- Week 9:  -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+<!-- Week 10:  -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+<!-- Week 11: Group projects -->
+<!-- - Discussion:   -->
+
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+<!-- Week 12: Peer reviews: what is and how to -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+<!-- Week 13: Project presentations -->
+<!-- - Discussion:   -->
+<!-- - In-class assignments:   -->
+<!-- - Readings:  -->
+<!-- - Lab:   -->
+<!-- - Homework: -->
+
+
+
