@@ -1,0 +1,64 @@
+---
+title: "Conducting Reproducible Research: Skills for Curating, Analysing, and Disseminating in an Open Science Framework"
+author: "Jessica L. Burnett"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+tags: [ecology, computation, programming, ]
+output: 
+    pdf_document:
+        template: NULL
+bibliography: rrecol.bib
+---
+
+# Course Description
+Students will operate within an Open Science framework while learning and applying skills for creating reproducible research. We will cover the basic tenants of modern, reproducible research with an emphasis on **computational reproducibility**. 
+
+
+<!-- Ecological data collected in the field are expensive, noisy, and sometimes difficult to analyze relative to their experimental counterparts. Therefore, careful understanding, design, management, and analysis of field observations is necessary to create reproducible and strong inference. -->
+<!-- This course gradually exposes students to the challenges that the ecological data anlyast often faces when analysing field data, paying special attention to implications for gaining statistical inference. Students completing this course will obtain a toolbox of skills necessary for managing and analysing modern field observations, and will have ample opportunity to refine these skills through hands-on training. -->
+<!-- We will cover a broad sample of statistical topics relevant to ecologists; the intent is to provide an introduction enabling student to intelligently follow a seminar or scientific paper utilizing these methods. Depending on the needs and interests of the students we will enable students to conduct analyses on their own for a subset of topics. Across all topics we will emphasize modern methods of model selection/multi-model inference and relevant study design questions. Topics will include generalized linear and additive models, mixed models, and survival analysis. We will use the software package R. Each student will present a data analysis problem of their choice, implement an ecological analysis, and prepare a written paper summarizing the analysis and results. -->
+
+# Statement on Diversity
+
+I strive to create a safe and inclusive environment within which we can each learn from and teach one another. Any disciminatory remarks or actions will not be tolerated. 
+
+## Setup
+
+Before the first week of class, you need to:
+    - install Program R and R Studio (required)* [Introduction to RStudio](https://youtu.be/FNrCxTSzq6s)
+    - create accounts at:
+        - GitHub
+        - 
+    
+
+# Course Schedule
+
+## Module 1
+
+- Week 1
+- Week 2
+- Week 3
+- Week 4
+
+## Module 2
+
+- Week 5
+- Week 6
+- Week 7
+- Week 8 
+
+## Module 3
+
+- Week 9
+- Week 11
+- Week 12
+- Week 13
+
+
+Transparency  throughout  the  data  life-cycle
+
+
+# Reading List
+1. [@hampton2015tao](https://par.nsf.gov/servlets/purl/10081653)
+1. [](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+1. [This special feature in *Ecological Informatics*](https://ojs.library.queensu.ca/index.php/IEE/issue/view/478)
+1. 
