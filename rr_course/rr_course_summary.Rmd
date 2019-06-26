@@ -1,5 +1,5 @@
 ---
-title: "Collaborative and Reproducible Research: Skills for Effective Communication, Collaboration, and Disemmination"
+title: "Collaborative and Reproducible Research: Skills for Effective Communication, Collaboration, and Dissemination"
 author: "Jessica L. Burnett"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
@@ -60,7 +60,7 @@ Module | Week | Topic | Discussion Facilitator
 3 | 11 |  | Group F
 4 | 12 | Peer reviewing: purpose, components and how-to | Group G
 4 | 13 |  | Burnett
-4 | 14 | Disemminating research and open-sourced publications | Burnett
+4 | 14 | Disseminating research and open-sourced publications | Burnett
 4 | 15 | Final project due! Discuss reflections (HW). |
  
 ## Labs and Homework
