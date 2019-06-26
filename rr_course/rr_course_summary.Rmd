@@ -4,9 +4,9 @@ author: "Jessica L. Burnett"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   pdf_document:
-  md_document:
-    variant: markdown_github
-bibliography: rrecol.bib
+  # md_document:
+  #   variant: markdown_github
+bibliography: rr_course.bib
 ---
 
 # Course Description  
@@ -34,12 +34,12 @@ Heterogeneity is valued in natural and social systems. I strive to create a safe
 ## Setup
 
 Before the first week of class,   
-- install Program R and R Studio (required)* [Introduction to RStudio](https://youtu.be/FNrCxTSzq6s)  
-- [create GitHub account](https://datadryad.org/password-login) 
+<!-- - install Program R and R Studio (required)* [Introduction to RStudio](https://youtu.be/FNrCxTSzq6s)   -->
+<!-- - [create GitHub account](https://datadryad.org/password-login) -->
 <!-- - [create Dryad account](https://datadryad.org/password-login) -->
+<!-- - [create ORCID account](https://datadryad.org/password-login) -->
 - [inform instructor of your prior background]()<- this will be a link to a google form to ID baselines for the course
 - consider potential data and/or research project ideas for a collaborative research project 
-
 
 
 # Course Schedule  
@@ -106,7 +106,6 @@ Students will conduct peer reviews of 1-2 other team projects. The peer reviewer
 
 **5% Peer Evaluations**  
 Students will provide peer reviews of their team members' involvement in the project. The instructor will provide a final score based on all group memebers' peer evaluations and prior knowledge. 
-
 
 # Other Resources
 1. [carpenteries data sheet organizationstructure](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html)
