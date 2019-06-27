@@ -20,6 +20,14 @@ header-includes:
 
 Collaborative research (team science) can lead to ideas, products, and information of high quality and impact, yet is a skill rarely formally taught to students. Reproducibility is a key component for effective communication within and outside collaborative research teams. Understanding and applying reproducible research practices benefits the efficiency and effectiveness of the team and its members, and is increasingly relevant as long-distance collaborations are becoming commonplace. Students in this course will learn and apply the basic tenents of reproducible research in a group-setting. This course will use lectures, discussion, and computer laboratory components culminating in a collaborative, data-driven research project. Short lectures and discussions will introduce the topic of and background for each computer-based laboratory meeting, where students will apply the knowledge and skills learned. Basic proficiency in a programming language and a desire to design and conduct a peer-reviewed research project is required. Although we will focus on conducting reproducible research in R and on GitHub, the basic skills learned are transferrable across research tools and domains. 
 
+*Prerequisites*. No formal prerequisites or prior programming skills are required, however, students must be willing to learn and practice using open-sourced platforms and software (e.g., Github, Google Drive, Overleaf) is required. 
+<!-- Skills in using specific tools will be introduced, but not assessed. -->
+
+<!-- This course provides students the basic skills and knowledge required to produce and become ambassadors for reproducible and collaborative research. Knowledge and skills will be facilitated using lectures, discussions, computer laboratory exercises. Students will demonstrate knowledge through homework assignments, reflections, and design and conduct a small project with two or more peers. The hands-on and group activities are designed such that the students are exposed to many aspects of scientific research, collaboration, and reproducibility. In other words, the schedule is designed to allow for ample learning via trial-and-error. -->
+
+## Intended Audience
+The course is intended for graduate students and, with instructor permission, upper-level undergraduate students. No prior programming is necessary. 
+
 
 # Statement on Diversity and Inclusivity  
 Heterogeneity is valued in natural and social systems. I strive to create a safe and inclusive environment within which we can each learn from and teach one another. It is the diverse experiences of others from which we most benefit. Disciminatory remarks or actions will not be tolerated.
