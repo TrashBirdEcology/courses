@@ -7,18 +7,33 @@ output:
   # md_document:
   #   variant: markdown_github
 bibliography: rr_course.bib
----
+header-includes:
+- \usepackage{pdflscape}
+- \newcommand{\blandscape}{\begin{landscape}}
+- \newcommand{\elandscape}{\end{landscape}}
+--- 
+
+# Course Webpage and Online Resources  
+[Click here for the course webpage](https://github.com/TrashBirdEcology/courses/tree/master/rr_course)
 
 # Course Description  
 
 Collaborative research (team science) can lead to ideas, products, and information of high quality and impact, yet is a skill rarely formally taught to students. Reproducibility is a key component for effective communication within and outside collaborative research teams. Understanding and applying reproducible research practices benefits the efficiency and effectiveness of the team and its members, and is increasingly relevant as long-distance collaborations are becoming commonplace. Students in this course will learn and apply the basic tenents of reproducible research in a group-setting. This course will use lectures, discussion, and computer laboratory components culminating in a collaborative, data-driven research project. Short lectures and discussions will introduce the topic of and background for each computer-based laboratory meeting, where students will apply the knowledge and skills learned. Basic proficiency in a programming language and a desire to design and conduct a peer-reviewed research project is required. Although we will focus on conducting reproducible research in R and on GitHub, the basic skills learned are transferrable across research tools and domains. 
 
 
-# Course Objectives 
+# Statement on Diversity and Inclusivity  
+Heterogeneity is valued in natural and social systems. I strive to create a safe and inclusive environment within which we can each learn from and teach one another. It is the diverse experiences of others from which we most benefit. Disciminatory remarks or actions will not be tolerated.
+
+
+# Course Objectives and Core Questions
+
+Two questions drive the content of this course:  
+1. **What are the cons of reproducible research?**  
+1. **What are the cons of open science?**  
 
 By the end of this course students will have the skills to lead and participate in collaborative research projects, and produce and share research in a reproducible manner. Specifically, students will be able to:
 
-- Describe the components, benefits, and challenges of collaborative research   
+- Describe the components, benefits, and challenges of collaborative research
 - Describe the components, benefits, and challenges of reproducibile research
 - Conduct a scientific research peer review 
 - Demonstrate proficiency in creating a reproducible research project 
@@ -26,64 +41,103 @@ By the end of this course students will have the skills to lead and participate 
 - Plan and conduct research with multiple collaborators 
 
 
-# Statement on Diversity and Inclusivity
+### 1. Reproducibile Research  
+- Objectives
+  - Explain the components and utility of reproducible research
+  - Identify and practice using the tools and resources for creating reproducible research
+  - Summarise the reproducibility of a published research project
 
-Heterogeneity is valued in natural and social systems. I strive to create a safe and inclusive environment within which we can each learn from and teach one another. It is the diverse experiences of others from which we most benefit. Disciminatory remarks or actions will **not** be tolerated.
+- Core Questions
+  - What are the cons of reproducible research?
+  - What are the cons of Open Science?
+
+### 2. Collaboration: Benefits, Skills, and Tools    
+- Objectives
+  - Identify and practice using the tools and resources for efficient collaboration
+  - Describe the benefits and challenges associated with collaboration
+  - Identify opportunities for collaboration
+  - Understand the relevance of communication in collaboration
+  
+- Core Questions
+  - [When] does collaboration work and fail?
+
+### 3. Team Science   
+- Objectives
+  - Identify and practice using the tools and resources for efficient collaboration
+  - Describe the benefits and challenges associated with collaboration
+  - Identify opportunities for collaboration
+  - Understand the relevance of communication in collaboration
+  
+- Core Questions
+  - Are you a team player?
+  
+  
+### 4. Peer Review and Dissemination  
+- Objectives
+  - Understand the components and purpose of peer reviews in science
+  - Improve your ability to provide peer reviews 
+  - Practice receiving and responding to peer reviews
+  
+- Core Questions
+  - What, if any, role should peer review play in your research?
 
 
-## Setup
-
-Before the first week of class,   
-<!-- - install Program R and R Studio (required)* [Introduction to RStudio](https://youtu.be/FNrCxTSzq6s)   -->
-<!-- - [create GitHub account](https://datadryad.org/password-login) -->
-<!-- - [create Dryad account](https://datadryad.org/password-login) -->
-<!-- - [create ORCID account](https://datadryad.org/password-login) -->
-- [inform instructor of your prior background]()<- this will be a link to a google form to ID baselines for the course
-- consider potential data and/or research project ideas for a collaborative research project 
-
-
+\newpage
+\blandscape
 # Course Schedule  
 ## Lectures & Discussions 
 
 Module | Week | Topic | Discussion Facilitator 
----|---|-------------------------|-----
+:---|:---:|-------------------------|-----
 1 | 01 | Review tenents of reproducible research | Burnett
-1 | 02 | Documentation & organization: data organization & importance of w.r.t. reproducibility | Burnett 
+1 | 02 | Documentation & organization: data organization & importance of w.r.t. reproducibility | Burnett
 1 | 03 | Documentation & organization: project directories | Burnett
 1 | 04 | Peer reviews of WK 3 HW | 
 2 | 05 | Collaboration: importance and components | Group A
-2 | 06 | Collaboration: discuss team roles, leadership, and team code of conduct | Group B
+2 | 06 | Collaboration: team roles, leadership, and team code of conduct | Group B
 2 | 07 | Identifying projects and identify team members and their roles. Discuss code of conduct | Burnett
-3 | 08 | Collaborative research: benefits and challenges | Group C
-3 | 09 | Doing collaborative research: writing and literature review. Review tools for citation management and sharing. | Burnett
+3 | 08 | Collaboration: benefits and challenges | Group C
+3 | 09 | Doing collaborative research: collaborative writing and literature review. Review tools for citation management and sharing. | Burnett
 3 | 10 | Doing collaborative research: computational analyses and sharing.  | Group E
-3 | 11 |  | Group F
-4 | 12 | Peer reviewing: purpose, components and how-to | Group G
-4 | 13 |  | Burnett
-4 | 14 | Disseminating research and open-sourced publications | Burnett
+3 | 11 | Building your network | Group F
+4 | 12 | Peer review process: purpose, components and how-to | Group G
+4 | 13 | Getting the job done: reaching out to new collaborators | Burnett
+4 | 14 | Dissemination: where and how to publish and share your work | Burnett
 4 | 15 | Final project due! Discuss reflections (HW). |
- 
-## Labs and Homework
+\newpage
 
-Module | Week | Lab Activity | Homework (due before next lab period) 
----|---|--------------------|--------------
+## Labs and Homework  
+
+Unit | Week | Lab Activity | Homework (due before next lab period) 
+:--|:--:|--------------------|----------------------
 1 | 01 | Review examples of various levels of reproducible project. Identify good and bad components. | 
 1 | 02 | Review best practices for data organization and documenting in real-time.  | Design a datasheet structure from the provided project summary.
-1 | 03 | Practice building project footprints in OS of choice. | Improve the structure and documentation for an existing project of your choice and reflect upon the improvements. 
+1 | 03 | Practice building project footprints in OS of choice. | Improve the structure and documentation for an existing project of your choice and reflect upon the improvements.
 1 | 04 | Review and practice using tools for data sharing and documentation. | Reflect ($\leq1$ page) on a past professional collaboration. If none, reflect on this week's discussion. Consider potential data analyses/project ideas. 
 2 | 05 | Review tools for collaboration: writing, analysis, and general communication. Identify the pros and cons of each. |  Summarise (bullets) research interests and potential skills you could bring to a research project (also complete the associated Google Form).
 2 | 06 | Brief overview of potential project ideas. Identify potential collaborations using research interests and skills.  | Upload your research project idea(s) to the class project directory by end of business day. Identify 2-3 projects you may be interested in joining. 
 2 | 07 | Identify the digital tools to be used to achieve your project. Initialize the project directory. Brainstorm project questions and timeline. / project ideas and identifying tools | Work with your group online and/or in person to create at least one brief project 'pre-proposal'.  
 3 | 08 | Identify the statistical or numerical approaches required to answer your questions. Identify outside expertise or manpower required to complete your project. | As a group, write a 1-2 page proposal including the analytical approach (will provide an example). Specify or create the license for data source. Find a model data management plan. Identify potential location(s) for archiving your data and analyses. 
-3 | 09 | Work on projects. Discuss outside expertise or feedback identified last lab session with the instructor. | 
-3 | 10 | Work on projects. | 
+3 | 09 | Work on projects.  | 
+3 | 10 | Work on projects.  | 
 4 | 11 | Work on proejcts. Feedback from guest experts. | 
 4 | 12 | Group project updates and reflections. Work on projects. | 
 3 | 13 | Work on projects. | 
 4 | 14 | Begin among-group peer reviews and submit within-group peer evaluations. | Peer reviews and evaluations due by next week's lab. Write a <1 page reflection on the project, team dynamics.  
 4 | 15 | Present and discuss research project and reflections on the collaborative experience. Demonstrate the reproducibility of your project. | 
 
+  
+## Prior to first meeting 
+Before the first week of class,   
+- [inform instructor of your prior background]()<- this will be a link to a google form to ID baselines for the course
+- consider potential data and/or research project ideas for a collaborative research project 
+<!-- - install Program R and R Studio (required)* [Introduction to RStudio](https://youtu.be/FNrCxTSzq6s)   -->
+<!-- - [create GitHub account](https://datadryad.org/password-login) -->
+<!-- - [create Dryad account](https://datadryad.org/password-login) -->
+<!-- - [create ORCID account](https://datadryad.org/password-login) -->
 
+\elandscape
+\newpage
 # Graded Work
 **10% Discussion**  
 Students will work in small teams to lead one weekly discussion of a paper, website, or other resource related to the week's topic. Resource(s) should be approved by the instructor by the beginning of the class period of the week prior to their assigned discussion. 
@@ -107,9 +161,3 @@ Students will conduct peer reviews of 1-2 other team projects. The peer reviewer
 **5% Peer Evaluations**  
 Students will provide peer reviews of their team members' involvement in the project. The instructor will provide a final score based on all group memebers' peer evaluations and prior knowledge. 
 
-# Other Resources
-1. [carpenteries data sheet organizationstructure](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html)
-1. [@hampton2015tao](https://par.nsf.gov/servlets/purl/10081653)
-1. [](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
-1. [This special feature in *Ecological Informatics*](https://ojs.library.queensu.ca/index.php/IEE/issue/view/478)
-1. [Primer on Github](https://github.com/worldbank/DIME-Resources/blob/master/git-1-intro.pdf) -- a lecture introducing Github using basic .txt files. I'd like to use this for the GitHub demonstration in lab

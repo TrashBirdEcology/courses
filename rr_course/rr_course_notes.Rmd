@@ -5,7 +5,13 @@ date: "June 26, 2019"
 output: html_document
 ---
 
-<!-- # END UPDATES HERE IGNORE THE RESTTTTTT -->
+# Additional Resources
+<!-- 1. [carpenteries data sheet organizationstructure](https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html) -->
+<!-- 1. [@hampton2015tao](https://par.nsf.gov/servlets/purl/10081653) -->
+<!-- 1. [](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608) -->
+<!-- 1. [This special feature in *Ecological Informatics*](https://ojs.library.queensu.ca/index.php/IEE/issue/view/478) -->
+<!-- 1. [Primer on Github](https://github.com/worldbank/DIME-Resources/blob/master/git-1-intro.pdf) -- a lecture introducing Github using basic .txt files. I'd like to use this for the GitHub demonstration in lab -->
+
 
 <!-- ## Module 1: Tenents of Reproducible Research  -->
 <!-- ### Objectives:   -->
