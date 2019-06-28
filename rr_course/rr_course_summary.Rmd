@@ -106,9 +106,9 @@ Module | Week | Topic | Discussion Facilitator
 2 | 07 | Identifying projects and identify team members and their roles. Discuss code of conduct | Burnett
 3 | 08 | Collaboration: benefits and challenges | Group C
 3 | 09 | Doing collaborative research: collaborative writing and literature review. Review tools for citation management and sharing. | Burnett
-3 | 10 | Doing collaborative research: computational analyses and sharing.  | Group E
-3 | 11 | Building your network | Group F
-4 | 12 | Peer review process: purpose, components and how-to | Group G
+3 | 10 | Doing collaborative research: computational analyses and sharing.  | Group D
+3 | 11 | Building your network | Group E
+4 | 12 | Peer review process: purpose, components and how-to | Group F
 4 | 13 | Getting the job done: reaching out to new collaborators | Burnett
 4 | 14 | Dissemination: where and how to publish and share your work | Burnett
 4 | 15 | Final project due! Discuss reflections (HW). |
@@ -158,7 +158,7 @@ Groups will collectively propose 2-4 potential projects. Groups can submit a sin
 
 
 **20% Collaborative Project Proposals**  
-Groups will propose 1-2 potential projects.  will be evaluated on originality and quality of their submitted assignments throughout the course. Assignments include the group proposals and peer review. 
+Groups will propose 1-2 potential projects. Students will be evaluated on originality and quality of their submitted assignments throughout the course. Assignments include the group proposals and peer review. 
 
 **40% Collaborative Project Writeup**  
 The end product of this course will be a manuscript draft resulting from the collaboration of between 2 and 5 students. collaborative project with the goal of report or manuscript submission. Groups will be identified at the end of Week 2, and will collectively write short project proposals for submission in Week XX. The group project will be graded based on the transparency, reproducibility, and overall quality of the computational and written components. *If the group cannot identify/agree upon a project by the deadline, a dataset will be provided by the instructor. Groups are encouraged to seek feedback often and early. 
